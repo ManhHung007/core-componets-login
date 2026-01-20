@@ -33,7 +33,7 @@ Bài tập thực hành sử dụng các Core Components trong React Native đ�
 ### Bước 1: Cài đặt thư viện
 
 ```bash
-npm install
+cd my-app
 ```
 
 ### Bước 2: Chạy ứng dụng
